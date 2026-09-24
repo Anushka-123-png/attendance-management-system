@@ -1,11 +1,26 @@
-print("===================================")
-print("   ATTENDANCE MANAGEMENT SYSTEM")
-print("===================================")
+students = []
 
-print("1. Add Student")
-print("2. View Students")
-print("3. Mark Attendance")
-print("4. View Attendance")
-print("5. Calculate Attendance")
-print("6. Low Attendance Report")
-print("7. Exit")
+
+def add_student():
+    name = input("Enter student name: ")
+    roll_no = input("Enter roll number: ")
+
+    student = {
+        "name": name,
+        "roll_no": roll_no
+    }
+
+    students.append(student)
+
+    print("Student added successfully!")
+
+
+def view_students():
+    if not students:
+        print("No students found.")
+        return
+
+    print("\nStudent List:")
+
+    for student in students:
+        print("Roll No:", student["roll_no"], "| Name:", student["name"])
