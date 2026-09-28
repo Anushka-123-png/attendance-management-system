@@ -1,0 +1,42 @@
+[
+    {
+        "name": "anushka",
+        "roll_no": "101",
+        "attendance": "Present"
+    },
+    {
+        "name": "anushka",
+        "roll_no": "101",
+        "attendance": "Present"
+    },
+    {
+        "name": "anushka",
+        "roll_no": "101",
+        "attendance": "Absent"
+    },
+    {
+        "name": "riya",
+        "roll_no": "203",
+        "attendance": "Absent"
+    },
+    {
+        "name": "sh",
+        "roll_no": "230",
+        "attendance": "Absent"
+    },
+    {
+        "name": "ANUSHKA",
+        "roll_no": "101",
+        "attendance": "Present"
+    },
+    {
+        "name": "ASH",
+        "roll_no": "234",
+        "attendance": "Present"
+    },
+    {
+        "name": "APP",
+        "roll_no": "145",
+        "attendance": "Present"
+    }
+]
