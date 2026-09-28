@@ -38,5 +38,45 @@
         "name": "APP",
         "roll_no": "145",
         "attendance": "Present"
+    },
+    {
+        "name": "ANUSHKA",
+        "roll_no": "101",
+        "attendance": "Present"
+    },
+    {
+        "name": "SHIVANI",
+        "roll_no": "231",
+        "attendance": "Present"
+    },
+    {
+        "name": "DIVA",
+        "roll_no": "242",
+        "attendance": "Present"
+    },
+    {
+        "name": "SHAURYA",
+        "roll_no": "190",
+        "attendance": "Present"
+    },
+    {
+        "name": "ADITYA",
+        "roll_no": "132",
+        "attendance": "Present"
+    },
+    {
+        "name": "YOSHI",
+        "roll_no": "245",
+        "attendance": "Present"
+    },
+    {
+        "name": "SHREYA",
+        "roll_no": "267",
+        "attendance": "Present"
+    },
+    {
+        "name": "KANAN",
+        "roll_no": "456",
+        "attendance": "Present"
     }
 ]
